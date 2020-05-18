@@ -1,4 +1,4 @@
-package com.weltonramos.cursomc.exceptions;
+package com.weltonramos.cursomc.service.exceptions;
 
 public class ObjectNotFoundException extends RuntimeException{
 

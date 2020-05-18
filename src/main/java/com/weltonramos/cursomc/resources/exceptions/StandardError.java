@@ -1,4 +1,4 @@
-package com.weltonramos.cursomc.exceptions;
+package com.weltonramos.cursomc.resources.exceptions;
 
 import java.io.Serializable;
 
