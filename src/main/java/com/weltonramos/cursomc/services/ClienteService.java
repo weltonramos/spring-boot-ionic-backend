@@ -55,7 +55,6 @@ public class ClienteService {
 		return new Cliente(clienteDTO.getId(), clienteDTO.getNome(), clienteDTO.getEmail(), null, null);
 	}
 	
-
 	private void updateData(Cliente newCliente, Cliente cliente) {
 		newCliente.setNome(cliente.getNome());
 		newCliente.setEmail(cliente.getEmail());
